@@ -1,5 +1,7 @@
 #!/bin/env python
 # -*- coding:utf-8 -*-
+# Comment: in order to make it boot you must user rc.local instead of
+# /etc/rc.local of your raspberrry
 # -------------------------------
 
 import os
